@@ -1,0 +1,6 @@
+C:\Users\jcbleadmin\Desktop\JCBLEIoTConnector\TestUDPConsole\bin\Debug\TestUDPConsole.exe.config
+C:\Users\jcbleadmin\Desktop\JCBLEIoTConnector\TestUDPConsole\bin\Debug\TestUDPConsole.exe
+C:\Users\jcbleadmin\Desktop\JCBLEIoTConnector\TestUDPConsole\bin\Debug\TestUDPConsole.pdb
+C:\Users\jcbleadmin\Desktop\JCBLEIoTConnector\TestUDPConsole\obj\Debug\TestUDPConsole.csprojResolveAssemblyReference.cache
+C:\Users\jcbleadmin\Desktop\JCBLEIoTConnector\TestUDPConsole\obj\Debug\TestUDPConsole.exe
+C:\Users\jcbleadmin\Desktop\JCBLEIoTConnector\TestUDPConsole\obj\Debug\TestUDPConsole.pdb

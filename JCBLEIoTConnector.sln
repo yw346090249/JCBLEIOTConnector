@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCBLEIoTConnector.Core", "JCBLEIoTConnector.Core\JCBLEIoTConnector.Core.csproj", "{DA31AA69-D359-4C65-9B0C-6758A23E052C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{89235710-5308-4A8E-879D-5B9E5B6EB9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUDPConsole", "TestUDPConsole\TestUDPConsole.csproj", "{832E3C3A-6143-430D-B7B0-1890BEE4CAEB}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "JcbleIoTConnectorCloudService", "JcbleIoTConnectorCloudService\JcbleIoTConnectorCloudService.ccproj", "{813A5C80-3847-4A2A-9E0F-3020AA616266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTConnectorWorkerRole", "IoTConnectorWorkerRole\IoTConnectorWorkerRole.csproj", "{6314053B-5997-4335-A78A-FCD253A2A9DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA31AA69-D359-4C65-9B0C-6758A23E052C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA31AA69-D359-4C65-9B0C-6758A23E052C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA31AA69-D359-4C65-9B0C-6758A23E052C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA31AA69-D359-4C65-9B0C-6758A23E052C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89235710-5308-4A8E-879D-5B9E5B6EB9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89235710-5308-4A8E-879D-5B9E5B6EB9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89235710-5308-4A8E-879D-5B9E5B6EB9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89235710-5308-4A8E-879D-5B9E5B6EB9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832E3C3A-6143-430D-B7B0-1890BEE4CAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832E3C3A-6143-430D-B7B0-1890BEE4CAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832E3C3A-6143-430D-B7B0-1890BEE4CAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832E3C3A-6143-430D-B7B0-1890BEE4CAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{813A5C80-3847-4A2A-9E0F-3020AA616266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813A5C80-3847-4A2A-9E0F-3020AA616266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813A5C80-3847-4A2A-9E0F-3020AA616266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813A5C80-3847-4A2A-9E0F-3020AA616266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6314053B-5997-4335-A78A-FCD253A2A9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6314053B-5997-4335-A78A-FCD253A2A9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6314053B-5997-4335-A78A-FCD253A2A9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6314053B-5997-4335-A78A-FCD253A2A9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://miclee2000.visualstudio.com/
+		SccProjectUniqueName0 = JCBLEIoTConnector.Core\\JCBLEIoTConnector.Core.csproj
+		SccProjectName0 = JCBLEIoTConnector.Core
+		SccAuxPath0 = https://miclee2000.visualstudio.com
+		SccLocalPath0 = JCBLEIoTConnector.Core
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = TestConsole\\TestConsole.csproj
+		SccProjectName1 = TestConsole
+		SccAuxPath1 = https://miclee2000.visualstudio.com
+		SccLocalPath1 = TestConsole
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
